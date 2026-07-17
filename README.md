@@ -21,19 +21,25 @@ v1.0.0.3版本更新：支持替换同比例、不同分辨率的图片（如 1K
 
 ***联系作者：MaxExcelsior***
 
-<img src="su_civiscope_layout/assets/个人微信.png" width="300" style="margin-bottom: 50px;">
+<img src="https://github.com/user-attachments/assets/bad952c4-7e0d-4b8b-8b9c-afeab879e8a4" width="300">
+
+<br><br>
 
 ***公众号：城析万相 Civiscope***
 
-<img src="su_civiscope_layout/assets/公众号二维码.jpg" width="300" style="margin-bottom: 50px;">
+<img src="https://github.com/user-attachments/assets/dfaad2f5-5487-426f-a546-868165237f10" width="300">
+
+<br><br>
 
 ***小红书：城析万相***
 
-<img src="su_civiscope_layout/assets/城析万相小红书二维码.png" width="300" style="margin-bottom: 50px;">
+<img src="https://github.com/user-attachments/assets/47f6bb34-5a63-4249-9260-b879fc85fffc" width="300">
+
+<br><br>
 
 ***请我喝杯咖啡***
 
-<img width="300" style="margin-bottom: 50px; alt="个人收款码" src="https://github.com/user-attachments/assets/d86b3d78-eb23-4369-9b89-190ef806d5df" />
+<img src="https://github.com/user-attachments/assets/c4e05464-1c62-4fad-9f5d-549e03105d6f" width="300">
 
 </div>
 
