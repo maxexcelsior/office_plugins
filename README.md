@@ -33,11 +33,12 @@ v1.0.0.3版本更新：支持替换同比例、不同分辨率的图片（如 1K
 
 ***请我喝杯咖啡***
 
-<img src="su_civiscope_layout/assets/个人收款码.jpg" width="300" style="margin-bottom: 50px;">
+<img width="300" style="margin-bottom: 50px; alt="个人收款码" src="https://github.com/user-attachments/assets/d86b3d78-eb23-4369-9b89-190ef806d5df" />
 
 </div>
 
 ---
+
 
 <div align="center">
 
