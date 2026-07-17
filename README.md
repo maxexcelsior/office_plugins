@@ -9,4 +9,4 @@
   3. 打开PPT，插入图片，选择图片右键，即可在菜单中看到【原位替换图片（保留裁剪）】
 
 v1.0.0.3版本更新：支持替换同比例、不同分辨率的图片（如 1K 16:9 原位替换为 4K 16:9）
-<img width="1816" height="962" alt="image" src="https://github.com/user-attachments/assets/60bb2253-8113-4872-8721-75b6bfd60a8f" />
+<img width="1816" height="962" alt="PPT图片原位替换" src="https://github.com/user-attachments/assets/ad39f88e-b253-4723-a141-7a51fc4f4769" />
